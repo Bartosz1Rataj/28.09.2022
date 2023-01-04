@@ -1,0 +1,162 @@
+body{
+
+}
+
+.tytul1{
+    text-align: center; 
+    background-color: #c0c0c0;
+    color: #00ff00;
+}
+
+.i1{
+    color: #ff0000
+}
+
+.i1:hover{
+    background-color: #000080;
+    color: #00ffff
+}
+
+.i1:visited{
+    background-color: #00ffff;
+    color: #000080;
+}
+
+.i1:hover{
+    background-color: #ff0000;
+    color: #ffff00;
+    font-size: x-large; 
+    font-style: italic;
+}
+
+.i1:active{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.tytul2{
+    text-align: center; 
+    background-color: #ffff99;
+    color: #00ffff;
+}
+
+.i2{
+    color: #008000;
+}
+
+.tytul3{
+    text-align: right; 
+    background-color: #800000;
+    color: #808000;
+}
+
+.i3{
+    color: #008080; 
+}
+
+.tytul4{
+    text-align: left; 
+    background-color: #ff99ff;
+    color: #0000ff;
+}
+
+.i4{
+    color: #800080;
+}
+
+#tytul5{
+    text-align: center; 
+    background-color: aqua;
+    color: #0000ff;
+}
+
+.i5{
+    color: yellow;
+}
+
+.h6{
+    color: #00ff00;
+
+}
+
+.h7{
+    color: #00ffff;
+}
+
+.h8{
+    color: #808000;
+}
+
+.h9{
+    color: #0000ff;
+}
+
+#ol1{
+    color: #008000;
+}
+
+.i2:hover{
+    background-color: #000080;
+    color: #00ffff
+}
+
+.i2:visited{
+    background-color: #00ffff;
+    color: #000080;
+}
+
+.i2:hover{
+    background-color: #ff0000;
+    color: #ffff00;
+    font-size: x-large; 
+    font-style: italic;
+}
+
+.i2:active{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.i3:hover{
+    background-color: #000080;
+    color: #00ffff
+}
+
+.i3:visited{
+    background-color: #00ffff;
+    color: #000080;
+}
+
+.i3:hover{
+    background-color: #ff0000;
+    color: #ffff00;
+    font-size: x-large; 
+    font-style: italic;
+}
+
+.i3:active{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.i4:hover{
+    background-color: #000080;
+    color: #00ffff
+}
+
+.i4:visited{
+    background-color: #00ffff;
+    color: #000080;
+}
+
+.i4:hover{
+    background-color: #ff0000;
+    color: #ffff00;
+    font-size: x-large; 
+    font-style: italic;
+}
+
+.i4:active{
+    background-color: #000000;
+    color: #ffffff;
+}
